@@ -1,0 +1,75 @@
+# =========================
+# Compiled binaries
+# =========================
+*.exe
+*.out
+*.o
+*.obj
+a.out
+run
+
+# =========================
+# Build directories
+# =========================
+build/
+bin/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+
+# =========================
+# Debug / profiling files
+# =========================
+*.log
+*.tmp
+*.stackdump
+
+# =========================
+# Input / Output files (local testing)
+# =========================
+input.txt
+output.txt
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+*.code-workspace
+
+# =========================
+# OS specific
+# =========================
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# =========================
+# Archives
+# =========================
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# =========================
+# Python leftovers (just in case)
+# =========================
+__pycache__/
+*.pyc
+
+# =========================
+# Node / misc (safe ignore)
+# =========================
+node_modules/
+
+# =========================
+# Personal notes (optional)
+# =========================
+notes_private/
